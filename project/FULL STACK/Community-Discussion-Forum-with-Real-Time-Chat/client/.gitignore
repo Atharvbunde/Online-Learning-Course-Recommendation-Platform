@@ -1,0 +1,51 @@
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+
+# Build folders
+build/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.vscode/
+.idea/
+
+# Package Locks Optional
+# package-lock.json
+
+# Coverage
+coverage/
+
+# Temporary Files
+temp/
+tmp/
+
+# React
+client/build/
+
+# Backend
+server/node_modules/
+
+# Frontend
+client/node_modules/
+
+# Render/Vercel
+.vercel/
+.render/
+
+# Cache
+.cache/
+
+# Output
+*.log

@@ -1,0 +1,11 @@
+Hello {name},
+
+This is a reminder for: {reminder_title}
+
+Date: {reminder_date}
+Time: {reminder_time}
+
+Please complete the task on time.
+
+Regards,
+Email Automation & Reminder System
